@@ -20,4 +20,7 @@ They are also useful for initializing your models when training on your UI desig
 | RICO    | [Saved Model](./rico/models/mobilenetv2-8k/saved-model)<br />[Web Model](./rico/models/mobilenetv2-8k/web-model) | [SSD MobileNet V2 FPNLite 640x640](http://download.tensorflow.org/models/object_detection/tf2/20200711/ssd_mobilenet_v2_fpnlite_640x640_coco17_tpu-8.tar.gz) | 7,800 steps  |                                                              |
 | RICO    | [Saved Model](./rico/models/resnet50v1-25k/saved-model)<br />[Web Model](./rico/models/resnet50v1-25k/web-model) | [SSD ResNet50 V1 FPN 640x640](http://download.tensorflow.org/models/object_detection/tf2/20200711/ssd_resnet50_v1_fpn_640x640_coco17_tpu-8.tar.gz) | 25,000 steps | [Tensorboard](./rico/models/resnet50v1-25k/screencapture.png) |
 
+# Thanks to...
 
+Thank you to my friends who rented me their computing resources.
+![IMG_8358.jpeg](./IMG_8358.jpeg)
