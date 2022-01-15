@@ -1,0 +1,125 @@
+item {
+    name: "Image",
+    id: 1
+}
+
+item {
+    name: "Input",
+    id: 2
+}
+
+item {
+    name: "On/Off Switch",
+    id: 3
+}
+
+item {
+    name: "Date Picker",
+    id: 4
+}
+
+item {
+    name: "Map View",
+    id: 5
+}
+
+item {
+    name: "List Item",
+    id: 6
+}
+
+item {
+    name: "Advertisement",
+    id: 7
+}
+
+item {
+    name: "Card",
+    id: 8
+}
+
+item {
+    name: "Checkbox",
+    id: 9
+}
+
+item {
+    name: "Drawer",
+    id: 10
+}
+
+item {
+    name: "Web View",
+    id: 11
+}
+
+item {
+    name: "Radio Button",
+    id: 12
+}
+
+item {
+    name: "Video",
+    id: 13
+}
+
+item {
+    name: "Button Bar",
+    id: 14
+}
+
+item {
+    name: "Text",
+    id: 15
+}
+
+item {
+    name: "Bottom Navigation",
+    id: 16
+}
+
+item {
+    name: "Toolbar",
+    id: 17
+}
+
+item {
+    name: "Number Stepper",
+    id: 18
+}
+
+item {
+    name: "Text Button",
+    id: 19
+}
+
+item {
+    name: "Pager Indicator",
+    id: 20
+}
+
+item {
+    name: "Icon",
+    id: 21
+}
+
+item {
+    name: "Slider",
+    id: 22
+}
+
+item {
+    name: "Modal",
+    id: 23
+}
+
+item {
+    name: "Background Image",
+    id: 24
+}
+
+item {
+    name: "Multi-Tab",
+    id: 25
+}
+
