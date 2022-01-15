@@ -23,4 +23,5 @@ They are also useful for initializing your models when training on your UI desig
 # Thanks to...
 
 Thank you to my friends who rented me their computing resources.
+
 <img src="./IMG_8358.jpeg" width="500"/>
