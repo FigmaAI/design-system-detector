@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Input",
+    "id": 1
+  },
+  {
+    "name": "Tag",
+    "id": 2
+  },
+  {
+    "name": "Button - Anatomy",
+    "id": 3
+  },
+  {
+    "name": "FloatingMenu",
+    "id": 4
+  },
+  {
+    "name": "Initial_Alphabet",
+    "id": 5
+  },
+  {
+    "name": "Image Tag",
+    "id": 6
+  },
+  {
+    "name": "Item - Anatomy",
+    "id": 7
+  },
+  {
+    "name": "PageIndicator - num2",
+    "id": 8
+  },
+  {
+    "name": "Image",
+    "id": 9
+  },
+  {
+    "name": "EventInfo",
+    "id": 10
+  },
+  {
+    "name": "Button",
+    "id": 11
+  },
+  {
+    "name": "IconLegacy",
+    "id": 12
+  },
+  {
+    "name": "PageIndicator - dot",
+    "id": 13
+  },
+  {
+    "name": "RelatedItems",
+    "id": 14
+  },
+  {
+    "name": "Image/circle/inner-border",
+    "id": 15
+  },
+  {
+    "name": "Profile - Anatomy",
+    "id": 16
+  },
+  {
+    "name": "PageIndicator - button",
+    "id": 17
+  },
+  {
+    "name": "Gap",
+    "id": 18
+  },
+  {
+    "name": "NavButton",
+    "id": 19
+  },
+  {
+    "name": "Spacing",
+    "id": 20
+  },
+  {
+    "name": "PageIndicator - num",
+    "id": 21
+  },
+  {
+    "name": "CategoryButton",
+    "id": 22
+  },
+  {
+    "name": "Profile",
+    "id": 23
+  }
+]
