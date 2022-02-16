@@ -1,1 +1,25 @@
-[ {    "name": "PAGER_INDICATOR",    "id": 1}, {    "name": "NAVIGATION_BAR",    "id": 2}, {    "name": "TEXT_INPUT",    "id": 3}, {    "name": "MAP",    "id": 4}, {    "name": "ADVERTISEMENT",    "id": 5}, {    "name": "LIST_ITEM",    "id": 6}, {    "name": "RADIO_BUTTON",    "id": 7}, {    "name": "DATE_PICKER",    "id": 8}, {    "name": "TOOLBAR",    "id": 9}, {    "name": "TEXT",    "id": 10}, {    "name": "CONTAINER",    "id": 11}, {    "name": "IMAGE",    "id": 12}, {    "name": "PICTOGRAM",    "id": 13}, {    "name": "BUTTON",    "id": 14}, {    "name": "SWITCH",    "id": 15}, {    "name": "SPINNER",    "id": 16}, {    "name": "CHECK_BOX",    "id": 17}, {    "name": "NUMBER_STEPPER",    "id": 18}, {    "name": "DRAWER",    "id": 19}, {    "name": "CARD_VIEW",    "id": 20}, {    "name": "PROGRESS_BAR",    "id": 21}, {    "name": "BACKGROUND",    "id": 22}, {    "name": "SLIDER",    "id": 23}]
+[
+  { "name": "PAGER_INDICATOR", "id": 1 },
+  { "name": "NAVIGATION_BAR", "id": 2 },
+  { "name": "TEXT_INPUT", "id": 3 },
+  { "name": "MAP", "id": 4 },
+  { "name": "ADVERTISEMENT", "id": 5 },
+  { "name": "LIST_ITEM", "id": 6 },
+  { "name": "RADIO_BUTTON", "id": 7 },
+  { "name": "DATE_PICKER", "id": 8 },
+  { "name": "TOOLBAR", "id": 9 },
+  { "name": "TEXT", "id": 10 },
+  { "name": "CONTAINER", "id": 11 },
+  { "name": "IMAGE", "id": 12 },
+  { "name": "PICTOGRAM", "id": 13 },
+  { "name": "BUTTON", "id": 14 },
+  { "name": "SWITCH", "id": 15 },
+  { "name": "SPINNER", "id": 16 },
+  { "name": "CHECK_BOX", "id": 17 },
+  { "name": "NUMBER_STEPPER", "id": 18 },
+  { "name": "DRAWER", "id": 19 },
+  { "name": "CARD_VIEW", "id": 20 },
+  { "name": "PROGRESS_BAR", "id": 21 },
+  { "name": "BACKGROUND", "id": 22 },
+  { "name": "SLIDER", "id": 23 }
+]
