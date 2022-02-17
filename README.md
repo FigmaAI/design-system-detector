@@ -5,7 +5,7 @@
 
 Collection of models that automatically find UI components of design systems on design screens such as Figma or Zeplin. 
 
-I provide a collection of detection models custom trained on the UI data of [Mobbin](https://mobbin.design/) and [RICO](https://interactionmining.org/rico). These models can be useful for out-of-the-box inference if you are interested in the design systems. 
+I provide a collection of detection models custom trained on the UI data of [Mobbin](https://mobbin.design/), [RICO](https://interactionmining.org/rico) and [CLAY](https://github.com/google-research-datasets/clay). These models can be useful for out-of-the-box inference if you are interested in the design systems. 
 
 They are also useful for initializing your models when training on your UI design assets. Please look at [this blog guide](https://blog.tensorflow.org/2021/01/custom-object-detection-in-browser.html) and my [Mobbin-training Colab](https://gist.github.com/dusskapark/7a6579da4d61c8156ff11d3644041b29) for more details.
 
@@ -21,6 +21,7 @@ They are also useful for initializing your models when training on your UI desig
 | RICO    | [Saved Model](./rico/models/resnet50v1-25k/saved-model)<br />[Web Model](./rico/models/resnet50v1-25k/web-model) | [SSD ResNet50 V1 FPN 640x640](http://download.tensorflow.org/models/object_detection/tf2/20200711/ssd_resnet50_v1_fpn_640x640_coco17_tpu-8.tar.gz) | 25,000 steps | [Tensorboard](./rico/models/resnet50v1-25k/screencapture.png) |
 | CLAY    | [Saved Model](./clay/models/mobilenetv2-8k/saved-model)<br />[Web Model](./clay/models/mobilenetv2-8k/web-model) | [SSD MobileNet V2 FPNLite 640x640](http://download.tensorflow.org/models/object_detection/tf2/20200711/ssd_mobilenet_v2_fpnlite_640x640_coco17_tpu-8.tar.gz) | 7,500 steps  |                                                              |
 | CLAY    | [Saved Model](./clay/models/mobilenetv2-50k/saved-model)<br />[Web Model](./clay/models/mobilenetv2-50k/web-model) | [SSD MobileNet V2 FPNLite 640x640](http://download.tensorflow.org/models/object_detection/tf2/20200711/ssd_mobilenet_v2_fpnlite_640x640_coco17_tpu-8.tar.gz) | 50,000 steps | [Tensorboard](./clay/models/mobilenetv2-50k/2022_92017_localhost.jpeg) |
+| CLAY    | [Saved Model](./clay/models/resnet50v1-25k/saved-model)<br />[Web Model](./clay/models/resnet50v1-25k/web-model) | [SSD ResNet50 V1 FPN 640x640](http://download.tensorflow.org/models/object_detection/tf2/20200711/ssd_resnet50_v1_fpn_640x640_coco17_tpu-8.tar.gz) | 25,000 steps | [Tensorboard](./clay/models/resnet50v1-25k/17-2-2022_91842_localhost.jpeg) |
 
 # Thanks to...
 
