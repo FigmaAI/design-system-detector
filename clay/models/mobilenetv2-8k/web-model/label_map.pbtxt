@@ -59,7 +59,7 @@ item {
 }
 
 item {
-    name: "PICTOGRAM",
+    name: "ICON",
     id: 13
 }
 
