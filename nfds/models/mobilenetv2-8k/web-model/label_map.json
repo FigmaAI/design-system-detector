@@ -21,5 +21,6 @@
   { "name": "status_icon", "id": 20 },
   { "name": "pageindicator___dot", "id": 21 },
   { "name": "cta", "id": 22 },
-  { "name": "radio", "id": 23 }
+  { "name": "radio", "id": 23 },
+  { "name": "error", "id": 24 }
 ]
