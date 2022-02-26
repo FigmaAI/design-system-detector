@@ -1,0 +1,119 @@
+item {
+    name: "floatingmenu",
+    id: 1
+}
+
+item {
+    name: "picker",
+    id: 2
+}
+
+item {
+    name: "eventinfo",
+    id: 3
+}
+
+item {
+    name: "checkbox",
+    id: 4
+}
+
+item {
+    name: "textinput",
+    id: 5
+}
+
+item {
+    name: "navbutton",
+    id: 6
+}
+
+item {
+    name: "initial_alphabet",
+    id: 7
+}
+
+item {
+    name: "toggle",
+    id: 8
+}
+
+item {
+    name: "pageindicator___num2",
+    id: 9
+}
+
+item {
+    name: "withlabel",
+    id: 10
+}
+
+item {
+    name: "relateditems",
+    id: 11
+}
+
+item {
+    name: "gap",
+    id: 12
+}
+
+item {
+    name: "image_tag",
+    id: 13
+}
+
+item {
+    name: "categorybutton",
+    id: 14
+}
+
+item {
+    name: "image",
+    id: 15
+}
+
+item {
+    name: "pageindicator___button",
+    id: 16
+}
+
+item {
+    name: "pageindicator___num",
+    id: 17
+}
+
+item {
+    name: "tabbutton",
+    id: 18
+}
+
+item {
+    name: "profilecontents",
+    id: 19
+}
+
+item {
+    name: "status_icon",
+    id: 20
+}
+
+item {
+    name: "pageindicator___dot",
+    id: 21
+}
+
+item {
+    name: "cta",
+    id: 22
+}
+
+item {
+    name: "radio",
+    id: 23
+}
+
+item {
+    name: "tagbutton",
+    id: 24
+}

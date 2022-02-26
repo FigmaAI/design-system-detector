@@ -1,13 +1,10 @@
 /mobbin/training/
-/mobbin/annotations/
 /mobbin/images/
 /rico/training/
 /rico/images/
-/rico/annotations/
 /clay/training/
 /clay/images/
-/clay/annotations/
 /nfds/training/
 /nfds/images/
-/nfds/annotations/
 .DS_Store
+*.record

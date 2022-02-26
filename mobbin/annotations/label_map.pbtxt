@@ -1,0 +1,56 @@
+item {
+    name: "BUTTON",
+    id: 1    
+}
+item {
+    name: "Check Box",
+    id: 2    
+}
+item {
+    name: "FAB",
+    id: 3    
+}
+item {
+    name: "Page Control",
+    id: 4    
+}
+item {
+    name: "Picker",
+    id: 5    
+}
+item {
+    name: "Progress Indicator",
+    id: 6    
+}
+item {
+    name: "Radio Button",
+    id: 7    
+}
+item {
+    name: "Rating",
+    id: 8    
+}
+item {
+    name: "Slider",
+    id: 9    
+}
+item {
+    name: "Stepper",
+    id: 10    
+}
+item {
+    name: "Switch",
+    id: 11    
+}
+item {
+    name: "Text Field",
+    id: 12    
+}
+item {
+    name: "ICON BUTTON",
+    id: 13  
+}
+item {
+    name: "Pagination",
+    id: 14
+}
