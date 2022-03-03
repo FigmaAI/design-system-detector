@@ -6,5 +6,7 @@
 /clay/images/
 /nfds/training/
 /nfds/images/
+/icon/clay/training/
 .DS_Store
 *.record
+*.index
