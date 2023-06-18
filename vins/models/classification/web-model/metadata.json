@@ -1,0 +1,30 @@
+{
+    "tfjsVersion": "4.7.0",
+    "tmVersion": "",
+    "packageVersion": "",
+    "packageName": "",
+    "timeStamp": 1687090630,
+    "userMetadata": {},
+    "modelName": "enrico",
+    "labels": [
+        "BackgroundImage",
+        "Bottom_Navigation",
+        "Card",
+        "CheckedTextView",
+        "Drawer",
+        "EditText",
+        "Icon",
+        "Image",
+        "Map",
+        "Modal",
+        "Multi_Tab",
+        "PageIndicator",
+        "Spinner",
+        "Switch",
+        "Text",
+        "TextButton",
+        "Toolbar",
+        "UpperTaskBar"
+    ],
+    "imageSize": 96
+}
