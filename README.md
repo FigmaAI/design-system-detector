@@ -19,6 +19,7 @@ They are also useful for initializing your models when training on your UI desig
 | RICO    | [Saved Model](./rico/models/mobilenetv2-8k/saved-model)<br />[Web Model](./rico/models/mobilenetv2-8k/web-model) | [SSD MobileNet V2 FPNLite 640x640](http://download.tensorflow.org/models/object_detection/tf2/20200711/ssd_mobilenet_v2_fpnlite_640x640_coco17_tpu-8.tar.gz) | 7,800 steps  |                                                              |
 | CLAY    | [Saved Model](./clay/models/mobilenetv2-8k/saved-model)<br />[Web Model](./clay/models/mobilenetv2-8k/web-model) | [SSD MobileNet V2 FPNLite 640x640](http://download.tensorflow.org/models/object_detection/tf2/20200711/ssd_mobilenet_v2_fpnlite_640x640_coco17_tpu-8.tar.gz) | 7,500 steps  |                                                              |
 | CLAY    | [Saved Model](./clay/models/mobilenetv2-50k/saved-model)<br />[Web Model](./clay/models/mobilenetv2-50k/web-model) | [SSD MobileNet V2 FPNLite 640x640](http://download.tensorflow.org/models/object_detection/tf2/20200711/ssd_mobilenet_v2_fpnlite_640x640_coco17_tpu-8.tar.gz) | 50,000 steps | [Tensorboard](./clay/models/mobilenetv2-50k/2022_92017_localhost.jpeg) |
+| ENRICO | [Web Model](./enrico/models/classification/web-model) | | Batch=32, epoch=20| [Colab](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/classification.ipynb)
 
 # Thanks to...
 
