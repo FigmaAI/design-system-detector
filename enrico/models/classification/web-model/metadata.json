@@ -1,0 +1,32 @@
+{
+    "tfjsVersion": "4.7.0",
+    "tmVersion": "",
+    "packageVersion": "",
+    "packageName": "",
+    "timeStamp": 1687070627,
+    "userMetadata": {},
+    "modelName": "enrico",
+    "labels": [
+        "bare",
+        "calculator",
+        "camera",
+        "chat",
+        "editor",
+        "form",
+        "gallery",
+        "list",
+        "login",
+        "maps",
+        "mediaplayer",
+        "menu",
+        "modal",
+        "news",
+        "other",
+        "profile",
+        "search",
+        "settings",
+        "terms",
+        "tutorial"
+    ],
+    "imageSize": 180
+}
