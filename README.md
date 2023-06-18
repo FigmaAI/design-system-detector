@@ -5,7 +5,7 @@
 
 Collection of models that automatically find UI components of design systems on design screens such as Figma or Zeplin. 
 
-I provide a collection of detection models custom trained on the UI data of [Mobbin](https://mobbin.design/), [RICO](https://interactionmining.org/rico) and [CLAY](https://github.com/google-research-datasets/clay). These models can be useful for out-of-the-box inference if you are interested in the design systems. 
+I provide a collection of detection models custom trained on the UI data of [Mobbin](https://mobbin.design/), [RICO](https://interactionmining.org/rico), [CLAY](https://github.com/google-research-datasets/clay), and [Enrico](https://github.com/luileito/enrico). These models can be useful for out-of-the-box inference if you are interested in the design systems. 
 
 They are also useful for initializing your models when training on your UI design assets. Please look at [this blog guide](https://blog.tensorflow.org/2021/01/custom-object-detection-in-browser.html) and my [Mobbin-training Colab](https://gist.github.com/dusskapark/7a6579da4d61c8156ff11d3644041b29) for more details.
 
