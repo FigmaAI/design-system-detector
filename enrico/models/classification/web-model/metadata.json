@@ -3,7 +3,7 @@
     "tmVersion": "",
     "packageVersion": "",
     "packageName": "",
-    "timeStamp": 1687070627,
+    "timeStamp": 1687161621,
     "userMetadata": {},
     "modelName": "enrico",
     "labels": [
@@ -28,5 +28,5 @@
         "terms",
         "tutorial"
     ],
-    "imageSize": 180
+    "imageSize": "224"
 }
