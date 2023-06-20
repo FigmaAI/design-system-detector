@@ -3,13 +3,14 @@
     "tmVersion": "",
     "packageVersion": "",
     "packageName": "",
-    "timeStamp": 1687090630,
+    "timeStamp": 1687283647,
     "userMetadata": {},
     "modelName": "enrico",
     "labels": [
         "BackgroundImage",
         "Bottom_Navigation",
         "Card",
+        "CheckBox",
         "CheckedTextView",
         "Drawer",
         "EditText",
@@ -19,6 +20,7 @@
         "Modal",
         "Multi_Tab",
         "PageIndicator",
+        "Remember",
         "Spinner",
         "Switch",
         "Text",
@@ -26,5 +28,5 @@
         "Toolbar",
         "UpperTaskBar"
     ],
-    "imageSize": 96
+    "imageSize": "224"
 }
